@@ -9,7 +9,7 @@
   "author": "Nicolas Mendes",
   "license": "ISC",
   "dependencies": {
-    "chalk": "^3.0.0",
+    "chalk": "^4.1.2",
     "prompt-sync": "^4.2.0",
     "prompt-sync-history": "^1.0.1"
   }
