@@ -12,13 +12,3 @@ node app.js
 Após isso digite as propriedades CSS que quiser, quando quiser parar para visualizar as propriedades em ordem alfabética, só precisa digitar SAIR (tudo em maiúsculo) no terminal.
 
 Autor Nicolas Mendes.
-
-## Installation
-
-Install my-project with npm
-
-```bash
-  npm install my-project
-  cd my-project
-```
-    
